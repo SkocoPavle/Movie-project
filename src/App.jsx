@@ -4,7 +4,7 @@ import Home from "./pages/HomePage"
 import NavBar from "./components/NavBar"
 import { MovieProvider } from "./contexts/MovieContext"
 import { Routes, Route } from "react-router-dom"
-
+//example
 function App() {
   return (
     <MovieProvider>
